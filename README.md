@@ -3,7 +3,8 @@
 > github에서 blog를 만드는 방법은 다음과 같다. 
 > 
 
-1. github에서 레포지토리를 하나 만든다. 
+1. github에서 레포지토리를 하나 만든다.
+2. ![이미지](1.png) 
 2. pc에서 clone한 후, README.md(메인페이지가될 것임)를 하나 만든다. 
 3. git add * 
 4. git commit -a -m "first"
