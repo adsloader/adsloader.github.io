@@ -10,6 +10,7 @@
 3. git add * 
 4. git commit -a -m "first"
 5. git push
+
 ![이미지](3.PNG)
 ![이미지](4.PNG)  
 6. github에가서 해당 레포지토리로 이동한다. 
