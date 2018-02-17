@@ -21,3 +21,5 @@
 ![이미지](7.PNG)  
 10. 해당 주소로 Page를 만들어 사용할 수 있다. 
 https://adsloader.github.io/
+
+> 참고로 재대로된 블로그를 만들고자 한다면 .md와 같은 마크다운파일보다 static한 html 파일을 통채로 올려야 한다. https://jekyllrb-ko.github.io/ 같은 곳을 참고할 것을 추천한다.  
