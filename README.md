@@ -4,7 +4,8 @@
 > 
 
 1. github에서 레포지토리를 하나 만든다.
-2. ![이미지](1.PNG) 
+![이미지](1.PNG)
+![이미지](2.PNG)  
 2. pc에서 clone한 후, README.md(메인페이지가될 것임)를 하나 만든다. 
 3. git add * 
 4. git commit -a -m "first"
