@@ -12,7 +12,7 @@
 
 - [링크](https://adsloader.github.io/seminar)
 
-#### seminar
+#### Travel 
 > 동영상을 배경으로 간단하게 몇 페이지 추가하여 만들어본 사이트 
 
 - [링크](https://adsloader.github.io/travel)
